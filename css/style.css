@@ -837,7 +837,7 @@ body {
   border: 0.1875em solid #d4d7d9;
   border-radius: 8em;
   height: 16em;
-  left: -0.8125em;
+  left: -12.5pt;
   opacity: 0;
   overflow: hidden;
   position: absolute;
@@ -1180,7 +1180,7 @@ body {
   background: url(/packs/media/images/valid-icon-blue-df2ae0bf.svg) 0.28571em
     0.35714em/0.71429em 0.71429em no-repeat;
   color: #6a6d70;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   padding-left: 1.53846em;
 }
 .fonts-loaded .onboarding .upload-wallpaper__best-list-item {
@@ -1656,7 +1656,7 @@ body {
   color: #000;
 }
 .yourapps__list {
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   font-weight: 400;
   font-family: SF Display, sans-serif;
   list-style: none;
@@ -1824,7 +1824,7 @@ body {
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #d4d7d9;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
 }
 .fonts-loaded .ad-gallery-item__tags {
   font-family: SF Display, sans-serif;
@@ -1987,7 +1987,7 @@ body {
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #6a6d70;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
 }
 .fonts-loaded .audio-player__meta--artist {
   font-family: SF Display, sans-serif;
@@ -2378,7 +2378,7 @@ body {
 }
 @media (min-width: 19.9375em) and (max-width: 47.9375em) {
   .contact-item__meta {
-    font-size: 0.8125em;
+    font-size: 12.5pt;
   }
 }
 .contact-item__meta span:not(:last-child):after {
@@ -3616,7 +3616,7 @@ a.button--link {
   cursor: pointer;
   display: flex;
   align-items: center;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   margin-top: 1.53846em;
   position: relative;
   -webkit-user-select: none;
@@ -3714,7 +3714,7 @@ a.button--link {
   font-weight: 500;
   font-family: SF Display, sans-serif;
   display: block;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   height: 100%;
   left: 1.53846em;
   overflow: hidden;
@@ -3729,9 +3729,9 @@ a.button--link {
 }
 .form-notification__icon {
   float: left;
-  height: 0.8125em;
+  height: 12.5pt;
   margin: 0.9375em 0 0 1.125em;
-  width: 0.8125em;
+  width: 12.5pt;
 }
 .form-notification__icon svg {
   height: 1.875em;
@@ -3756,11 +3756,11 @@ a.button--link {
   border-radius: 0.5em;
   content: "";
   display: inline-block;
-  height: 0.8125em;
+  height: 12.5pt;
   left: 1.125em;
   position: absolute;
   top: 0.875em;
-  width: 0.8125em;
+  width: 12.5pt;
   z-index: 0;
 }
 .form-notification--validated .form-notification__message {
@@ -3864,7 +3864,7 @@ a.button--link {
 .planselector__copy {
   font-weight: 400;
   font-family: SF Display, sans-serif;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   position: absolute;
   top: 11.69231em;
   width: 100%;
@@ -4075,7 +4075,7 @@ a.button--link {
 .textfield__busy,
 .textfield__info,
 .textfield__valid {
-  height: 0.8125em;
+  height: 12.5pt;
   position: absolute;
   right: 0.9375em;
   top: 1em;
@@ -4086,8 +4086,8 @@ a.button--link {
 .textfield__busy svg,
 .textfield__info svg,
 .textfield__valid svg {
-  height: 0.8125em;
-  width: 0.8125em;
+  height: 12.5pt;
+  width: 12.5pt;
 }
 .is-mobile-ready .textarea__busy,
 .is-mobile-ready .textarea__info,
@@ -4431,11 +4431,11 @@ a.button--link {
 }
 .wrapper-upload__text {
   color: #17181a;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
 }
 .wrapper-upload__choose_text {
   color: #17181a !important;
-  font-size: 0.8125em !important;
+  font-size: 12.5pt !important;
   margin: 0 !important;
   text-decoration: none;
 }
@@ -4501,7 +4501,7 @@ a.button--link {
   font-weight: 500;
   font-family: SF Display, sans-serif;
   color: #17181a;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   margin: 0.625em 0 0 0.625em;
 }
 .fonts-loaded .profile .setwallpaperbackground .choose-wallpaper__title {
@@ -5066,7 +5066,7 @@ a.button--link {
 .actionbar svg.actionbar__cancel-button {
   cursor: pointer;
   height: 1.5em;
-  margin-top: 0.8125em;
+  margin-top: 12.5pt;
   width: 1.5em;
 }
 .actionbar svg.actionbar__cancel-button {
@@ -5122,7 +5122,7 @@ a.button--link {
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #17181a;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
 }
 .fonts-loaded .downloader .app-introduction p {
   font-family: SF Display, sans-serif;
@@ -5142,7 +5142,7 @@ a.button--link {
   font-family: SF Display, sans-serif;
   color: #409fff;
   display: inline-block;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   padding: 1.25em 0;
   text-decoration: none;
 }
@@ -5795,7 +5795,7 @@ html:not(.has-touch)
   color: #6a6d70;
   font-weight: 400;
   font-family: SF Display, sans-serif;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   padding: 0 5px;
   top: 0.07692em;
 }
@@ -5942,11 +5942,11 @@ html:not(.has-touch)
 }
 .verticalnav__error-icon,
 .verticalnav__icon {
-  height: 0.8125em;
+  height: 12.5pt;
   position: absolute;
   right: 0.5em;
   top: 0.875em;
-  width: 0.8125em;
+  width: 12.5pt;
   z-index: 1;
 }
 .verticalnav__item--has-subitems .verticalnav__arrow {
@@ -6188,7 +6188,7 @@ html:not(.has-touch)
   border-radius: 0.46154em;
   box-shadow: 0 0.15385em 2.30769em 0 rgba(0, 0, 0, 0.2);
   color: #fff;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   left: 6.15385em;
   line-height: 1.4;
   max-width: 70vw;
@@ -6631,7 +6631,7 @@ html:not(.has-touch)
   font-family: SF Display, sans-serif;
   background: #484a4d;
   color: #fff;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1.4;
   max-width: 17.69231em;
   padding: 0.76923em 0.92308em;
@@ -7187,7 +7187,7 @@ html:not(.has-touch)
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #17181a;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1;
   margin-left: 5px;
   position: absolute;
@@ -8144,12 +8144,12 @@ html:not(.has-touch)
 }
 .transfer .blocked-transfer__description {
   color: #484a4d;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   text-align: center;
   margin: 0;
 }
 .transfer .blocked-transfer .blocked-transfer__reference {
-  font-size: 0.8125em;
+  font-size: 12.5pt;
 }
 .transfer__bubble {
   background-clip: padding-box;
@@ -8228,7 +8228,7 @@ html:not(.has-touch)
   border-radius: 10px;
   box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.1), 0 10px 30px 0 rgba(0, 0, 0, 0.2);
   color: #fff;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1.4;
   max-width: 17.69231em;
   padding: 20px;
@@ -8362,7 +8362,7 @@ html:not(.has-touch)
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #6a6d70;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   margin: 0;
   padding: 0;
 }
@@ -8395,7 +8395,7 @@ html:not(.has-touch)
   padding: 0 0.90909em;
 }
 .downloader__heading p {
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1.38462em;
   padding: 0 1.53846em;
   text-align: center;
@@ -8450,7 +8450,7 @@ html:not(.has-touch)
 }
 .downloader__heading.downloader__heading--2-files .downloader__top-icon {
   height: 5.625em;
-  margin-bottom: 0.8125em;
+  margin-bottom: 12.5pt;
   width: 5.625em;
 }
 .downloader__heading.downloader__heading--2-files h2 {
@@ -8923,7 +8923,7 @@ html:not(.has-touch)
   padding: 0 0.625em;
 }
 .uploader__fields .textfield__label {
-  left: 0.8125em;
+  left: 12.5pt;
 }
 .uploader__fields .textfield__label--focused {
   top: 0.4375em;
@@ -9281,7 +9281,7 @@ html:not(.has-touch)
   font-weight: 500;
   font-family: SF Display, sans-serif;
   font-size: 1.125em;
-  padding: 0.8125em auto;
+  padding: 12.5pt auto;
   text-align: center;
   width: 48%;
 }
@@ -9525,7 +9525,7 @@ html:not(.has-touch)
 }
 .terms-conditions p {
   color: #484a4d;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1.38462em;
   margin: 0 0 0.61538em;
   padding: 0;
@@ -9649,7 +9649,7 @@ html:not(.has-touch)
 }
 .uploader--form .uploader__empty-state .uploader__sub-title {
   color: #6a6d70;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   left: 5.07692em;
   line-height: 1;
   margin: 0;
@@ -9795,7 +9795,7 @@ html:not(.has-touch)
 }
 .uploader--form .uploader__add-files-label {
   color: #6a6d70;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1.23077em;
 }
 .uploader--form .uploader__add-files-count {
@@ -9910,7 +9910,7 @@ html:not(.has-touch)
   color: #484a4d;
   font-weight: 400;
   font-family: SF Display, sans-serif;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1.61538em;
   margin: 0;
   padding: 0;
@@ -10259,7 +10259,7 @@ html:not(.has-touch)
   color: #6a6d70;
   font-weight: 400;
   font-family: SF Display, sans-serif;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   left: 1.53846em;
   top: 3.23077em;
   width: 95%;
@@ -10636,7 +10636,7 @@ html:not(.is-mobile-ready)
   width: 0.66667em;
 }
 .welcome__terms {
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   max-width: 19.53846em;
 }
 .welcome__terms p {
@@ -11377,7 +11377,7 @@ div.plus-list li {
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #6a6d70;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -11524,7 +11524,7 @@ div.plus-list li {
 }
 .is-mobile-ready .grid__card .preview__bar {
   display: block;
-  padding: 0 0.8125em;
+  padding: 0 12.5pt;
 }
 .grid__card .preview__title {
   font-weight: 500;
@@ -11543,7 +11543,7 @@ div.plus-list li {
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #6a6d70;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
 }
 .fonts-loaded .grid__card .preview__subtitle {
   font-family: SF Display, sans-serif;
@@ -11803,7 +11803,7 @@ div.plus-list li {
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #484a4d;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1.61538em;
   margin-bottom: 0;
 }
@@ -11814,7 +11814,7 @@ div.plus-list li {
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #484a4d;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   text-decoration: underline;
 }
 .fonts-loaded .panel__content.help-section .frequent-questions .question span {
@@ -11936,7 +11936,7 @@ div.plus-list li {
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #484a4d;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1.38462em;
   margin: 0;
 }
@@ -12315,7 +12315,7 @@ div.plus-list li {
   border-radius: 5px;
   color: #484a4d;
   display: inline-block;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   margin: 0 0 0.38462em;
   padding: 1.38462em;
   vertical-align: top;
@@ -12944,7 +12944,7 @@ div.plus-list li {
   font-weight: 400;
   font-family: SF Display, sans-serif;
   color: #6a6d70;
-  font-size: 0.8125em;
+  font-size: 12.5pt;
   line-height: 1.61538em;
   white-space: pre-line;
 }
